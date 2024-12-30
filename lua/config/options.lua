@@ -4,3 +4,4 @@
 vim.g.autoformat = false
 vim.opt.winbar = "%=%m %f"
 vim.g.lazyvim_php_lsp = "intelephense"
+vim.g.root_spec = { "cwd" }
